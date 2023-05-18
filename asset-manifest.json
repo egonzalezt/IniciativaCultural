@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/IniciativaCultural/static/js/main.fcc01566.js",
+    "static/js/496.d06ce302.chunk.js": "/IniciativaCultural/static/js/496.d06ce302.chunk.js",
+    "index.html": "/IniciativaCultural/index.html",
+    "main.fcc01566.js.map": "/IniciativaCultural/static/js/main.fcc01566.js.map",
+    "496.d06ce302.chunk.js.map": "/IniciativaCultural/static/js/496.d06ce302.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fcc01566.js"
+  ]
+}
